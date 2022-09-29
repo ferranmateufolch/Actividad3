@@ -69,8 +69,3 @@ if __name__ == "__main__":
 
 print("We love Pepe")
 print("We love Pepe")
-print("We love Pepe")
-print("We love Pepe")
-print("We love Pepe")
-print("We love Pepe")
-print("We love Pepe")
