@@ -67,5 +67,3 @@ if __name__ == "__main__":
     print("El numero binario " + numero_binario + " es " + numero_hexadecimal + " en hexadecimal.")
 
 
-ea
-tus putos muertos
